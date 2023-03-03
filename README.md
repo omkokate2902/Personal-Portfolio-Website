@@ -2,7 +2,8 @@
 This is a personal portfolio website designed and built using HTML, CSS, and JavaScript. The purpose of this website is to showcase my skills, experience, and projects to potential employers or clients.
 
 ## Getting Started
-([omkokate.netlify.app](https://omkokate.netlify.app/))
+Website link
+[omkokate.netlify.app](https://omkokate.netlify.app/)
 
 ## Features
 This personal portfolio website includes the following features:
